@@ -1,4 +1,3 @@
-
 from setuptools import setup
 
 setup(
@@ -11,4 +10,3 @@ setup(
     description="Example of the test application",
     license="MIT"
 )
-
