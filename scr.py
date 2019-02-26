@@ -12,26 +12,28 @@ pull_path = 'repos/' \
             + rep \
             + '/pulls'
 surname = input("Enter something to search in title ")
-search_pat2 = req.get(git +
-                      'search/issues'
-                      '?q=+type:pr+repo:'
-                      + rep_user
-                      + '/'
-                      + rep
-                      + "+state:open"
-                        "+"
-                      + surname
-                      + "in:title"
-                        '&sort=created&order=asc',
-                      auth=(user, password)).json()
+search_pat2 = req.get(
+    git +
+    'search/issues'
+    '?q=+type:pr+repo:' +
+    rep_user +
+    '/' +
+    rep +
+    "+state:open"
+    "+" +
+    surname +
+    "in:title"
+    '&sort=created&order=asc',
+    auth=(user, password)).json()
 found_total = search_pat2['total_count']
 for i in range(found_total):
     number = search_pat2['items'][i]['number']
-    pull_info = req.get(git
-                        + pull_path
-                        + '/'
-                        + str(number),
-                        auth=(user, password)).json()
+    pull_info = req.get(
+        git +
+        pull_path +
+        '/' +
+        str(number),
+        auth=(user, password)).json()
     data = req.get(
         git + pull_path + '/' + str(number) + '/files',
         auth=(user, password)).json()
