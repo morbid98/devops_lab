@@ -8,6 +8,7 @@ rep = input("Repository ")
 git = 'https://api.github.com/'
 search = 'search/issues?q=+type:pr+repo:'
 state = "+state:open+"
+sort = "in:title&sort=created&order=asc"
 pull_path = 'repos/' \
             + rep_user \
             + '/' \
@@ -15,7 +16,7 @@ pull_path = 'repos/' \
             + '/pulls'
 surname = input("Enter something to search in title ")
 search_pat2 = req.get(
-    git + search + rep_user + '/' + rep + state + surname + "in:title&sort=created&order=asc",
+    git + search + rep_user + '/' + rep + state + surname + sort,
     auth=(user, password)).json()
 found_total = search_pat2['total_count']
 for i in range(found_total):
