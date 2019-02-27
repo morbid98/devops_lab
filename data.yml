@@ -1,0 +1,9 @@
+apache_vhosts:
+- servername: 'www.domain.tld'
+  documentroot: '/www/domain'
+  serveradmin: 'www-admin@valera.com'
+  dirpath: '"/usr/local/httpd/htdocs"'
+- servername: 'www.domain2.tld'
+  documentroot: '/www/domain2'
+  serveradmin: 'www-admin2@valera.com'
+  dirpath: '"/usr/local/httpd/htdocs2"'
