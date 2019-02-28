@@ -1,14 +1,17 @@
 import requests as req
 import argparse
+import getpass
 
 
 def parse_arg():
     parser = argparse.ArgumentParser()
     parser.add_argument('user')
-    parser.add_argument('password')
     parser.add_argument('rep_user')
     parser.add_argument('rep')
     return parser.parse_args()
+
+
+password = getpass.getpass()
 
 
 def cool_stuff(user, password, rep_user, rep):
@@ -51,7 +54,7 @@ def cool_stuff(user, password, rep_user, rep):
 
 args = parse_arg()
 parse_user = args.user
-parse_pass = args.password
+parse_pass = password
 parse_rep_user = args.rep_user
 parse_rep = args.rep
 
