@@ -2,6 +2,7 @@ import psutil
 import configparser
 import time
 from crontab import CronTab
+import json
 
 cron = CronTab(user=True)
 job = cron.new(command='python monitor.py')
@@ -27,7 +28,7 @@ class LogMonitor:
         net = psutil.net_io_counters()
         outCPU = "Overall cpu load(for each core)\n {}\n ".format(cpu)
         outMem = "Overall virtual memory load\n {} \n ".format(mem)
-        outDisk = "Overall disk usage\n {}\n "  .format(disk)
+        outDisk = "Overall disk usage\n {}\n ".format(disk)
         outIO = "Overall I/O stats\n {}\n ".format(io)
         outNet = "Overall network stats\n {}\n ".format(net)
         outStat = [outCPU, outMem, outDisk, outIO, outNet]
@@ -40,7 +41,11 @@ class LogMonitor:
                     file.write(member)
             LogMonitor.snapCount += 1
         elif output == 'json':
-            print("Now it will be outputted as JSON! But you will not see it ")
+            with open("output.json", "a") as file:
+                json.dump(snapPrint, file)
+            for member in outStat:
+                with open("output.json", 'a') as file:
+                    json.dump(member, file)
         else:
             print("Check your config file, something is broken!")
             exit(1)

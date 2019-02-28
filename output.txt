@@ -1,0 +1,1695 @@
+SNAPSHOT 1: 2019-02-25 16:33:31:
+Overall cpu load(for each core)
+ [25.0, 24.0, 30.4, 25.7]
+ Overall virtual memory load
+ svmem(total=12297670656, available=3167604736, percent=74.2, used=8398839808, free=650940416, active=5855834112, inactive=2337054720, buffers=207749120, cached=3040141312, shared=403578880, slab=587218944) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245011427328, free=576478343168, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=1804425, write_count=16361810, read_bytes=35056198656, write_bytes=412615528448, read_time=8604007, write_time=217270578, read_merged_count=161626, write_merged_count=3232815, busy_time=24666480)
+ Overall network stats
+ snetio(bytes_sent=16986575003, bytes_recv=25222945901, packets_sent=3167544, packets_recv=17081181, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 1: 2019-02-25 16:42:16:
+Overall cpu load(for each core)
+ [14.1, 38.0, 17.3, 19.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=2979467264, percent=75.8, used=8582168576, free=454553600, active=6041247744, inactive=2341654528, buffers=208490496, cached=3052457984, shared=408387584, slab=587186176) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245018865664, free=576470904832, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=1805144, write_count=16382429, read_bytes=35062086656, write_bytes=413008412672, read_time=8610082, write_time=217360693, read_merged_count=161651, write_merged_count=3238047, busy_time=24698275)
+ Overall network stats
+ snetio(bytes_sent=16987123093, bytes_recv=25259525424, packets_sent=3171028, packets_recv=17128282, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 2: 2019-02-25 16:43:17:
+Overall cpu load(for each core)
+ [14.1, 17.2, 16.2, 16.3]
+ Overall virtual memory load
+ svmem(total=12297670656, available=2945298432, percent=76.0, used=8616636416, free=418660352, active=6077820928, inactive=2342096896, buffers=208642048, cached=3053731840, shared=408088576, slab=587071488) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245020258304, free=576469512192, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=1805392, write_count=16384680, read_bytes=35063831552, write_bytes=413057095680, read_time=8612163, write_time=217368657, read_merged_count=161701, write_merged_count=3238582, busy_time=24701635)
+ Overall network stats
+ snetio(bytes_sent=16987152925, bytes_recv=25259829526, packets_sent=3171172, packets_recv=17131053, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 1: 2019-02-25 17:42:54:
+Overall cpu load(for each core)
+ [0.0, 0.0, 1.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10929754112, percent=11.1, used=947965952, free=10475495424, active=853831680, inactive=696893440, buffers=51036160, cached=823173120, shared=154914816, slab=98594816) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245026385920, free=576463384576, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=41527, write_count=8041, read_bytes=1331195904, write_bytes=63188992, read_time=1004539, write_time=278964, read_merged_count=2923, write_merged_count=3981, busy_time=105004)
+ Overall network stats
+ snetio(bytes_sent=117008, bytes_recv=487459, packets_sent=648, packets_recv=2743, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 1: 2019-02-25 17:43:09:
+Overall cpu load(for each core)
+ [1.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10935169024, percent=11.1, used=944607232, free=10480906240, active=852418560, inactive=693923840, buffers=51052544, cached=821104640, shared=152879104, slab=98492416) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245026385920, free=576463384576, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=41529, write_count=8094, read_bytes=1331204096, write_bytes=63475712, read_time=1004567, write_time=279066, read_merged_count=2923, write_merged_count=4000, busy_time=105134)
+ Overall network stats
+ snetio(bytes_sent=117271, bytes_recv=496525, packets_sent=651, packets_recv=2834, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 2: 2019-02-25 17:48:10:
+Overall cpu load(for each core)
+ [9.9, 1.0, 1.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10915569664, percent=11.2, used=965844992, free=10460864512, active=872464384, inactive=692842496, buffers=51236864, cached=819724288, shared=151228416, slab=98508800) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245026627584, free=576463142912, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=41529, write_count=8525, read_bytes=1331204096, write_bytes=65941504, read_time=1004567, write_time=280692, read_merged_count=2923, write_merged_count=4081, busy_time=106730)
+ Overall network stats
+ snetio(bytes_sent=134546, bytes_recv=772540, packets_sent=789, packets_recv=4620, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 3: 2019-02-25 17:53:11:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10871050240, percent=11.6, used=987717632, free=10369007616, active=914235392, inactive=691810304, buffers=73527296, cached=867418112, shared=148856832, slab=150073344) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245026635776, free=576463134720, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52304, write_count=9025, read_bytes=1375350784, write_bytes=68390912, read_time=1024789, write_time=282474, read_merged_count=2926, write_merged_count=4201, busy_time=110513)
+ Overall network stats
+ snetio(bytes_sent=154845, bytes_recv=1030603, packets_sent=929, packets_recv=6614, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 4: 2019-02-25 17:58:13:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10858807296, percent=11.7, used=999960576, free=10356551680, active=926134272, inactive=692023296, buffers=73732096, cached=867426304, shared=148856832, slab=150044672) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245026639872, free=576463130624, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52304, write_count=9413, read_bytes=1375350784, write_bytes=70168576, read_time=1024789, write_time=284388, read_merged_count=2926, write_merged_count=4262, busy_time=112401)
+ Overall network stats
+ snetio(bytes_sent=166140, bytes_recv=1160405, packets_sent=1019, packets_recv=7673, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 5: 2019-02-25 18:03:14:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10850390016, percent=11.8, used=1008373760, free=10347888640, active=934506496, inactive=692240384, buffers=73928704, cached=867479552, shared=148856832, slab=150048768) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245026664448, free=576463106048, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52316, write_count=9768, read_bytes=1375399936, write_bytes=71823360, read_time=1024951, write_time=286061, read_merged_count=2926, write_merged_count=4328, busy_time=114236)
+ Overall network stats
+ snetio(bytes_sent=178469, bytes_recv=1341929, packets_sent=1121, packets_recv=9227, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 6: 2019-02-25 18:08:15:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10843459584, percent=11.8, used=1015283712, free=10340429824, active=940302336, inactive=692649984, buffers=74297344, cached=867659776, shared=148856832, slab=150077440) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245026795520, free=576462974976, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52322, write_count=10485, read_bytes=1375432704, write_bytes=79884288, read_time=1025041, write_time=289858, read_merged_count=2926, write_merged_count=4526, busy_time=117884)
+ Overall network stats
+ snetio(bytes_sent=237398, bytes_recv=1594393, packets_sent=1366, packets_recv=10640, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 7: 2019-02-25 18:13:16:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10843721728, percent=11.8, used=1015005184, free=10340421632, active=939745280, inactive=692883456, buffers=74518528, cached=867725312, shared=148856832, slab=150122496) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245026820096, free=576462950400, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52322, write_count=10897, read_bytes=1375432704, write_bytes=83931136, read_time=1025041, write_time=291794, read_merged_count=2926, write_merged_count=4615, busy_time=119807)
+ Overall network stats
+ snetio(bytes_sent=255535, bytes_recv=2004208, packets_sent=1491, packets_recv=13918, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 8: 2019-02-25 18:18:17:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10843635712, percent=11.8, used=1013784576, free=10340093952, active=938500096, inactive=694411264, buffers=74731520, cached=869060608, shared=150167552, slab=150077440) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245026840576, free=576462929920, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52324, write_count=11351, read_bytes=1375449088, write_bytes=86044672, read_time=1025113, write_time=294461, read_merged_count=2926, write_merged_count=4687, busy_time=121909)
+ Overall network stats
+ snetio(bytes_sent=271823, bytes_recv=2234085, packets_sent=1613, packets_recv=15850, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 9: 2019-02-25 18:23:18:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10841300992, percent=11.8, used=1016111104, free=10337566720, active=941563904, inactive=694579200, buffers=74899456, cached=869093376, shared=150171648, slab=150056960) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245026861056, free=576462909440, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52324, write_count=11673, read_bytes=1375449088, write_bytes=87552000, read_time=1025113, write_time=295983, read_merged_count=2926, write_merged_count=4745, busy_time=123347)
+ Overall network stats
+ snetio(bytes_sent=282870, bytes_recv=2437812, packets_sent=1701, packets_recv=17587, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 10: 2019-02-25 18:28:19:
+Overall cpu load(for each core)
+ [0.0, 0.0, 1.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10839941120, percent=11.9, used=1017466880, free=10336083968, active=942284800, inactive=694702080, buffers=75018240, cached=869101568, shared=150171648, slab=149991424) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245026869248, free=576462901248, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52324, write_count=11902, read_bytes=1375449088, write_bytes=88576000, read_time=1025113, write_time=298082, read_merged_count=2926, write_merged_count=4777, busy_time=124773)
+ Overall network stats
+ snetio(bytes_sent=293511, bytes_recv=2625867, packets_sent=1784, packets_recv=19149, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 11: 2019-02-25 18:33:20:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10841292800, percent=11.8, used=1017425920, free=10337214464, active=942555136, inactive=693579776, buffers=75198464, cached=867831808, shared=148860928, slab=149991424) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245026910208, free=576462860288, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52324, write_count=12226, read_bytes=1375449088, write_bytes=90042368, read_time=1025113, write_time=299544, read_merged_count=2926, write_merged_count=4830, busy_time=126235)
+ Overall network stats
+ snetio(bytes_sent=308834, bytes_recv=2781663, packets_sent=1890, packets_recv=20334, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 12: 2019-02-25 18:38:21:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10838974464, percent=11.9, used=1018159104, free=10334593024, active=942985216, inactive=695435264, buffers=75476992, cached=869441536, shared=150433792, slab=150016000) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245026922496, free=576462848000, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52326, write_count=12753, read_bytes=1375457280, write_bytes=92516352, read_time=1025125, write_time=302102, read_merged_count=2926, write_merged_count=4921, busy_time=128785)
+ Overall network stats
+ snetio(bytes_sent=324751, bytes_recv=2923799, packets_sent=1989, packets_recv=21424, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 13: 2019-02-25 18:43:22:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10838794240, percent=11.9, used=1018597376, free=10334052352, active=944046080, inactive=695472128, buffers=75796480, cached=869224448, shared=150175744, slab=150024192) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245026955264, free=576462815232, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52326, write_count=13362, read_bytes=1375457280, write_bytes=95457280, read_time=1025125, write_time=304946, read_merged_count=2926, write_merged_count=5038, busy_time=131433)
+ Overall network stats
+ snetio(bytes_sent=350209, bytes_recv=3384539, packets_sent=2156, packets_recv=25296, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 14: 2019-02-25 18:48:23:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10831941632, percent=11.9, used=1025429504, free=10326142976, active=951656448, inactive=695660544, buffers=76931072, cached=869167104, shared=150175744, slab=150061056) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245026832384, free=576462938112, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52336, write_count=14865, read_bytes=1375498240, write_bytes=103002112, read_time=1025299, write_time=314273, read_merged_count=2926, write_merged_count=5389, busy_time=140262)
+ Overall network stats
+ snetio(bytes_sent=405907, bytes_recv=4396419, packets_sent=2698, packets_recv=38203, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 15: 2019-02-25 18:53:24:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10832195584, percent=11.9, used=1025146880, free=10325315584, active=952594432, inactive=695836672, buffers=77553664, cached=869654528, shared=150175744, slab=150159360) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245027127296, free=576462643200, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52356, write_count=16016, read_bytes=1375801344, write_bytes=109416448, read_time=1025729, write_time=319304, read_merged_count=2926, write_merged_count=5754, busy_time=145075)
+ Overall network stats
+ snetio(bytes_sent=593576, bytes_recv=4865097, packets_sent=3874, packets_recv=43127, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 16: 2019-02-25 18:58:25:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10833850368, percent=11.9, used=1023488000, free=10326790144, active=950386688, inactive=696016896, buffers=77729792, cached=869662720, shared=150175744, slab=150167552) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245027127296, free=576462643200, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52356, write_count=16365, read_bytes=1375801344, write_bytes=111022080, read_time=1025729, write_time=320993, read_merged_count=2926, write_merged_count=5809, busy_time=146741)
+ Overall network stats
+ snetio(bytes_sent=603982, bytes_recv=5225763, packets_sent=3956, packets_recv=46124, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 17: 2019-02-25 19:03:27:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10834575360, percent=11.9, used=1024065536, free=10327293952, active=950259712, inactive=694898688, buffers=77922304, cached=868388864, shared=148865024, slab=150179840) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245027147776, free=576462622720, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52356, write_count=16778, read_bytes=1375801344, write_bytes=115118080, read_time=1025729, write_time=322567, read_merged_count=2926, write_merged_count=5907, busy_time=148251)
+ Overall network stats
+ snetio(bytes_sent=616626, bytes_recv=5939895, packets_sent=4050, packets_recv=52113, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 18: 2019-02-25 19:08:28:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10832728064, percent=11.9, used=1025908736, free=10325131264, active=952799232, inactive=695173120, buffers=78127104, cached=868503552, shared=148865024, slab=150179840) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245027258368, free=576462512128, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52356, write_count=17176, read_bytes=1375801344, write_bytes=117149696, read_time=1025729, write_time=324253, read_merged_count=2926, write_merged_count=5983, busy_time=149883)
+ Overall network stats
+ snetio(bytes_sent=635374, bytes_recv=7001986, packets_sent=4165, packets_recv=60595, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 19: 2019-02-25 19:13:29:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10828935168, percent=11.9, used=1028370432, free=10321080320, active=955035648, inactive=696713216, buffers=78348288, cached=869871616, shared=150179840, slab=150208512) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245027282944, free=576462487552, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52356, write_count=17586, read_bytes=1375801344, write_bytes=119033856, read_time=1025729, write_time=326810, read_merged_count=2926, write_merged_count=6049, busy_time=151856)
+ Overall network stats
+ snetio(bytes_sent=650401, bytes_recv=7329113, packets_sent=4268, packets_recv=63377, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 20: 2019-02-25 19:18:30:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10832629760, percent=11.9, used=1025990656, free=10324574208, active=952713216, inactive=695611392, buffers=78528512, cached=868577280, shared=148869120, slab=150200320) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245027299328, free=576462471168, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52356, write_count=17956, read_bytes=1375801344, write_bytes=120729600, read_time=1025729, write_time=328338, read_merged_count=2926, write_merged_count=6106, busy_time=153306)
+ Overall network stats
+ snetio(bytes_sent=665637, bytes_recv=7528494, packets_sent=4379, packets_recv=64933, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 21: 2019-02-25 19:23:31:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10830520320, percent=11.9, used=1026781184, free=10322288640, active=952979456, inactive=697085952, buffers=78688256, cached=869912576, shared=150183936, slab=150196224) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245027319808, free=576462450688, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52356, write_count=18244, read_bytes=1375801344, write_bytes=122064896, read_time=1025729, write_time=329609, read_merged_count=2926, write_merged_count=6154, busy_time=154570)
+ Overall network stats
+ snetio(bytes_sent=675807, bytes_recv=7713678, packets_sent=4459, packets_recv=66589, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 22: 2019-02-25 19:28:32:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10830835712, percent=11.9, used=1026465792, free=10322452480, active=953270272, inactive=697225216, buffers=78827520, cached=869924864, shared=150183936, slab=150200320) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245027328000, free=576462442496, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52356, write_count=18481, read_bytes=1375801344, write_bytes=123105280, read_time=1025729, write_time=330926, read_merged_count=2926, write_merged_count=6186, busy_time=155864)
+ Overall network stats
+ snetio(bytes_sent=686481, bytes_recv=7902490, packets_sent=4544, packets_recv=68220, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 23: 2019-02-25 19:33:33:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10830413824, percent=11.9, used=1026871296, free=10321719296, active=953786368, inactive=697487360, buffers=79101952, cached=869978112, shared=150183936, slab=150220800) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245027360768, free=576462409728, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52356, write_count=19014, read_bytes=1375801344, write_bytes=125693952, read_time=1025729, write_time=333673, read_merged_count=2926, write_merged_count=6291, busy_time=158339)
+ Overall network stats
+ snetio(bytes_sent=705803, bytes_recv=8087675, packets_sent=4668, packets_recv=69571, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 24: 2019-02-25 19:38:34:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10828918784, percent=11.9, used=1029677056, free=10319843328, active=956518400, inactive=696537088, buffers=79450112, cached=868700160, shared=148873216, slab=150224896) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245027389440, free=576462381056, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52356, write_count=19613, read_bytes=1375801344, write_bytes=128512000, read_time=1025729, write_time=336887, read_merged_count=2926, write_merged_count=6404, busy_time=161435)
+ Overall network stats
+ snetio(bytes_sent=731964, bytes_recv=8246969, packets_sent=4798, packets_recv=70669, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 25: 2019-02-25 19:43:35:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10856955904, percent=11.7, used=1000329216, free=10347581440, active=927719424, inactive=698077184, buffers=79708160, cached=870051840, shared=150183936, slab=150241280) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245027422208, free=576462348288, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52356, write_count=20152, read_bytes=1375801344, write_bytes=131141632, read_time=1025729, write_time=340114, read_merged_count=2926, write_merged_count=6503, busy_time=163855)
+ Overall network stats
+ snetio(bytes_sent=761489, bytes_recv=8478868, packets_sent=4960, packets_recv=72482, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 26: 2019-02-25 19:48:36:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10854096896, percent=11.7, used=1003175936, free=10344439808, active=930275328, inactive=698343424, buffers=79912960, cached=870141952, shared=150188032, slab=150253568) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245027500032, free=576462270464, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52356, write_count=20531, read_bytes=1375801344, write_bytes=133304320, read_time=1025729, write_time=341952, read_merged_count=2926, write_merged_count=6574, busy_time=165661)
+ Overall network stats
+ snetio(bytes_sent=779356, bytes_recv=8702391, packets_sent=5090, packets_recv=73994, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 27: 2019-02-25 19:53:37:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10847449088, percent=11.8, used=1011126272, free=10337513472, active=938635264, inactive=697294848, buffers=80171008, cached=868859904, shared=148877312, slab=150286336) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245027512320, free=576462258176, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52356, write_count=21093, read_bytes=1375801344, write_bytes=138072064, read_time=1025729, write_time=344081, read_merged_count=2926, write_merged_count=6696, busy_time=167771)
+ Overall network stats
+ snetio(bytes_sent=801891, bytes_recv=8930043, packets_sent=5222, packets_recv=75725, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 28: 2019-02-25 19:58:38:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10835468288, percent=11.9, used=1023094784, free=10325368832, active=950284288, inactive=697458688, buffers=80334848, cached=868872192, shared=148877312, slab=150282240) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245027528704, free=576462241792, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52356, write_count=21371, read_bytes=1375801344, write_bytes=139333632, read_time=1025729, write_time=345556, read_merged_count=2926, write_merged_count=6742, busy_time=169231)
+ Overall network stats
+ snetio(bytes_sent=812849, bytes_recv=9104018, packets_sent=5309, packets_recv=77189, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 29: 2019-02-25 20:03:40:
+Overall cpu load(for each core)
+ [0.0, 1.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10824065024, percent=12.0, used=1034518528, free=10313768960, active=961789952, inactive=697630720, buffers=80486400, cached=868896768, shared=148877312, slab=150298624) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245027549184, free=576462221312, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52356, write_count=21703, read_bytes=1375801344, write_bytes=140881920, read_time=1025729, write_time=346829, read_merged_count=2926, write_merged_count=6802, busy_time=170475)
+ Overall network stats
+ snetio(bytes_sent=823336, bytes_recv=9286235, packets_sent=5390, packets_recv=78800, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 30: 2019-02-25 20:08:41:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10824073216, percent=12.0, used=1033187328, free=10313523200, active=959655936, inactive=699166720, buffers=80637952, cached=870322176, shared=150188032, slab=150278144) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245027643392, free=576462127104, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52356, write_count=22002, read_bytes=1375801344, write_bytes=142430208, read_time=1025729, write_time=348115, read_merged_count=2926, write_merged_count=6857, busy_time=171737)
+ Overall network stats
+ snetio(bytes_sent=837217, bytes_recv=9444282, packets_sent=5496, packets_recv=79884, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 31: 2019-02-25 20:13:42:
+Overall cpu load(for each core)
+ [1.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10824507392, percent=12.0, used=1032749056, free=10313711616, active=959725568, inactive=699392000, buffers=80846848, cached=870363136, shared=150188032, slab=150294528) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245027672064, free=576462098432, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52356, write_count=22407, read_bytes=1375801344, write_bytes=144338944, read_time=1025729, write_time=350364, read_merged_count=2926, write_merged_count=6931, busy_time=173687)
+ Overall network stats
+ snetio(bytes_sent=852493, bytes_recv=9621691, packets_sent=5602, packets_recv=81285, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 32: 2019-02-25 20:18:43:
+Overall cpu load(for each core)
+ [1.0, 1.0, 2.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10824572928, percent=12.0, used=1032679424, free=10313543680, active=959307776, inactive=699596800, buffers=81055744, cached=870391808, shared=150188032, slab=150294528) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245027700736, free=576462069760, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52356, write_count=22792, read_bytes=1375801344, write_bytes=146108416, read_time=1025729, write_time=353145, read_merged_count=2926, write_merged_count=6990, busy_time=175696)
+ Overall network stats
+ snetio(bytes_sent=868664, bytes_recv=9812822, packets_sent=5722, packets_recv=82797, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 33: 2019-02-25 20:23:44:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10822594560, percent=12.0, used=1034653696, free=10311344128, active=961073152, inactive=699813888, buffers=81260544, cached=870412288, shared=150188032, slab=150315008) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245027704832, free=576462065664, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52356, write_count=23181, read_bytes=1375801344, write_bytes=147910656, read_time=1025729, write_time=355235, read_merged_count=2926, write_merged_count=7054, busy_time=177666)
+ Overall network stats
+ snetio(bytes_sent=883879, bytes_recv=9975074, packets_sent=5813, packets_recv=84210, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 34: 2019-02-25 20:28:45:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10825740288, percent=12.0, used=1032814592, free=10314346496, active=959324160, inactive=698638336, buffers=81387520, cached=869122048, shared=148877312, slab=150323200) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245027717120, free=576462053376, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52356, write_count=23413, read_bytes=1375801344, write_bytes=148951040, read_time=1025729, write_time=356280, read_merged_count=2926, write_merged_count=7088, busy_time=178706)
+ Overall network stats
+ snetio(bytes_sent=894669, bytes_recv=10135258, packets_sent=5898, packets_recv=85558, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 35: 2019-02-25 20:33:46:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10826747904, percent=12.0, used=1031802880, free=10315112448, active=959270912, inactive=698855424, buffers=81588224, cached=869167104, shared=148877312, slab=150339584) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245027753984, free=576462016512, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52356, write_count=23861, read_bytes=1375801344, write_bytes=151072768, read_time=1025729, write_time=358094, read_merged_count=2926, write_merged_count=7170, busy_time=180508)
+ Overall network stats
+ snetio(bytes_sent=910019, bytes_recv=10302435, packets_sent=6005, packets_recv=86875, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 36: 2019-02-25 20:38:47:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10824273920, percent=12.0, used=1032957952, free=10312413184, active=960024576, inactive=700383232, buffers=81797120, cached=870502400, shared=150188032, slab=150355968) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245027762176, free=576462008320, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52356, write_count=24206, read_bytes=1375801344, write_bytes=152629248, read_time=1025729, write_time=360074, read_merged_count=2926, write_merged_count=7227, busy_time=182450)
+ Overall network stats
+ snetio(bytes_sent=920732, bytes_recv=10474360, packets_sent=6090, packets_recv=88336, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 37: 2019-02-25 20:43:48:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 1.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10824966144, percent=12.0, used=1033564160, free=10312810496, active=960040960, inactive=699334656, buffers=82051072, cached=869244928, shared=148877312, slab=150380544) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245027790848, free=576461979648, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52358, write_count=24704, read_bytes=1375809536, write_bytes=157143040, read_time=1025765, write_time=362179, read_merged_count=2926, write_merged_count=7335, busy_time=184437)
+ Overall network stats
+ snetio(bytes_sent=943494, bytes_recv=10690570, packets_sent=6235, packets_recv=90000, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 38: 2019-02-25 20:48:49:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10825777152, percent=12.0, used=1032753152, free=10313351168, active=959488000, inactive=699568128, buffers=82247680, cached=869318656, shared=148877312, slab=150384640) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245027864576, free=576461905920, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52358, write_count=25040, read_bytes=1375809536, write_bytes=159109120, read_time=1025765, write_time=363681, read_merged_count=2926, write_merged_count=7398, busy_time=185897)
+ Overall network stats
+ snetio(bytes_sent=959710, bytes_recv=10856408, packets_sent=6346, packets_recv=91073, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 39: 2019-02-25 20:53:50:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10824630272, percent=12.0, used=1032540160, free=10310856704, active=960352256, inactive=701677568, buffers=82481152, cached=871792640, shared=150188032, slab=150491136) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245027762176, free=576462008320, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52413, write_count=25604, read_bytes=1377030144, write_bytes=162697216, read_time=1026250, write_time=365920, read_merged_count=2931, write_merged_count=7513, busy_time=188166)
+ Overall network stats
+ snetio(bytes_sent=977131, bytes_recv=11075003, packets_sent=6460, packets_recv=92823, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 40: 2019-02-25 20:58:52:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10824146944, percent=12.0, used=1033023488, free=10310238208, active=960610304, inactive=701632512, buffers=82608128, cached=871800832, shared=150188032, slab=150495232) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245027770368, free=576462000128, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52413, write_count=25856, read_bytes=1377030144, write_bytes=163819520, read_time=1026250, write_time=367082, read_merged_count=2931, write_merged_count=7547, busy_time=189290)
+ Overall network stats
+ snetio(bytes_sent=987671, bytes_recv=11210168, packets_sent=6543, packets_recv=93964, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 41: 2019-02-25 21:03:53:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10823327744, percent=12.0, used=1033842688, free=10309206016, active=961163264, inactive=701792256, buffers=82743296, cached=871878656, shared=150188032, slab=150515712) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245027790848, free=576461979648, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52425, write_count=26162, read_bytes=1377136640, write_bytes=165277696, read_time=1026378, write_time=368832, read_merged_count=2931, write_merged_count=7607, busy_time=190722)
+ Overall network stats
+ snetio(bytes_sent=998119, bytes_recv=11405986, packets_sent=6625, packets_recv=95680, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 42: 2019-02-25 21:08:54:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10823327744, percent=12.0, used=1035149312, free=10308984832, active=962404352, inactive=700682240, buffers=82866176, cached=870670336, shared=148877312, slab=150519808) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245027889152, free=576461881344, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52425, write_count=26460, read_bytes=1377136640, write_bytes=166858752, read_time=1026378, write_time=370124, read_merged_count=2931, write_merged_count=7665, busy_time=191788)
+ Overall network stats
+ snetio(bytes_sent=1011597, bytes_recv=11560345, packets_sent=6727, packets_recv=96753, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 43: 2019-02-25 21:13:55:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10821582848, percent=12.0, used=1036890112, free=10307031040, active=964665344, inactive=700874752, buffers=83050496, cached=870699008, shared=148877312, slab=150528000) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245027909632, free=576461860864, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52425, write_count=26880, read_bytes=1377136640, write_bytes=168824832, read_time=1026378, write_time=372402, read_merged_count=2931, write_merged_count=7738, busy_time=193704)
+ Overall network stats
+ snetio(bytes_sent=1027079, bytes_recv=12964046, packets_sent=6835, packets_recv=109571, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 44: 2019-02-25 21:18:56:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10822373376, percent=12.0, used=1034776576, free=10307543040, active=962879488, inactive=702439424, buffers=83304448, cached=872046592, shared=150188032, slab=150536192) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245027938304, free=576461832192, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52425, write_count=27370, read_bytes=1377136640, write_bytes=171151360, read_time=1026378, write_time=375043, read_merged_count=2931, write_merged_count=7824, busy_time=196168)
+ Overall network stats
+ snetio(bytes_sent=1051664, bytes_recv=13647065, packets_sent=6967, packets_recv=115655, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 45: 2019-02-25 21:23:57:
+Overall cpu load(for each core)
+ [0.0, 4.0, 0.0, 1.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10823909376, percent=12.0, used=1034559488, free=10308890624, active=962891776, inactive=701300736, buffers=83464192, cached=870756352, shared=148877312, slab=150540288) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245027954688, free=576461815808, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52427, write_count=27706, read_bytes=1377144832, write_bytes=172707840, read_time=1026396, write_time=376590, read_merged_count=2931, write_merged_count=7880, busy_time=197687)
+ Overall network stats
+ snetio(bytes_sent=1064294, bytes_recv=13786154, packets_sent=7058, packets_recv=116839, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 46: 2019-02-25 21:28:58:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10822606848, percent=12.0, used=1034551296, free=10307428352, active=962678784, inactive=702750720, buffers=83591168, cached=872099840, shared=150188032, slab=150544384) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245027966976, free=576461803520, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52431, write_count=27935, read_bytes=1377161216, write_bytes=173740032, read_time=1026422, write_time=377714, read_merged_count=2931, write_merged_count=7914, busy_time=198777)
+ Overall network stats
+ snetio(bytes_sent=1077717, bytes_recv=13981427, packets_sent=7153, packets_recv=118459, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 47: 2019-02-25 21:33:59:
+Overall cpu load(for each core)
+ [0.0, 0.0, 1.0, 1.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10820972544, percent=12.0, used=1037623296, free=10305552384, active=965029888, inactive=701620224, buffers=83795968, cached=870699008, shared=148733952, slab=150573056) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245027991552, free=576461778944, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52431, write_count=28408, read_bytes=1377161216, write_bytes=178130944, read_time=1026422, write_time=379843, read_merged_count=2931, write_merged_count=8022, busy_time=200625)
+ Overall network stats
+ snetio(bytes_sent=1092436, bytes_recv=14151877, packets_sent=7261, packets_recv=119798, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 48: 2019-02-25 21:39:00:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 2.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10823315456, percent=12.0, used=1035128832, free=10307686400, active=962293760, inactive=701861888, buffers=83984384, cached=870871040, shared=148877312, slab=150589440) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245028003840, free=576461766656, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52431, write_count=28746, read_bytes=1377161216, write_bytes=179687424, read_time=1026422, write_time=381861, read_merged_count=2931, write_merged_count=8082, busy_time=202549)
+ Overall network stats
+ snetio(bytes_sent=1102714, bytes_recv=14303588, packets_sent=7341, packets_recv=121065, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 49: 2019-02-25 21:44:01:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10823090176, percent=12.0, used=1035366400, free=10307186688, active=962969600, inactive=702103552, buffers=84201472, cached=870916096, shared=148877312, slab=150556672) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245028069376, free=576461701120, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52431, write_count=29202, read_bytes=1377161216, write_bytes=181972992, read_time=1026422, write_time=383768, read_merged_count=2931, write_merged_count=8173, busy_time=204411)
+ Overall network stats
+ snetio(bytes_sent=1126817, bytes_recv=14493592, packets_sent=7486, packets_recv=122552, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 50: 2019-02-25 21:49:02:
+Overall cpu load(for each core)
+ [1.0, 1.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10823348224, percent=12.0, used=1035083776, free=10307153920, active=963190784, inactive=702353408, buffers=84414464, cached=871018496, shared=148877312, slab=150585344) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245028143104, free=576461627392, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52431, write_count=29595, read_bytes=1377161216, write_bytes=184193024, read_time=1026422, write_time=387328, read_merged_count=2931, write_merged_count=8245, busy_time=206655)
+ Overall network stats
+ snetio(bytes_sent=1149136, bytes_recv=14694351, packets_sent=7618, packets_recv=123838, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 51: 2019-02-25 21:54:04:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10822512640, percent=12.0, used=1035915264, free=10306138112, active=963817472, inactive=702513152, buffers=84590592, cached=871026688, shared=148877312, slab=150597632) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245028143104, free=576461627392, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52431, write_count=29966, read_bytes=1377161216, write_bytes=185921536, read_time=1026422, write_time=389479, read_merged_count=2931, write_merged_count=8308, busy_time=208329)
+ Overall network stats
+ snetio(bytes_sent=1159854, bytes_recv=14877532, packets_sent=7702, packets_recv=125408, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 52: 2019-02-25 21:59:05:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10819162112, percent=12.0, used=1037959168, free=10302644224, active=966144000, inactive=703967232, buffers=84721664, cached=872345600, shared=150188032, slab=150597632) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245028151296, free=576461619200, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52431, write_count=30194, read_bytes=1377161216, write_bytes=186937344, read_time=1026422, write_time=390539, read_merged_count=2931, write_merged_count=8341, busy_time=209351)
+ Overall network stats
+ snetio(bytes_sent=1170687, bytes_recv=15034454, packets_sent=7790, packets_recv=126650, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 53: 2019-02-25 22:04:06:
+Overall cpu load(for each core)
+ [1.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10818809856, percent=12.0, used=1038307328, free=10302136320, active=965578752, inactive=704086016, buffers=84852736, cached=872374272, shared=150188032, slab=150605824) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245028171776, free=576461598720, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52431, write_count=30544, read_bytes=1377161216, write_bytes=188657664, read_time=1026422, write_time=391451, read_merged_count=2931, write_merged_count=8419, busy_time=210246)
+ Overall network stats
+ snetio(bytes_sent=1181612, bytes_recv=15243491, packets_sent=7878, packets_recv=128512, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 54: 2019-02-25 22:09:07:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10820456448, percent=12.0, used=1036660736, free=10303516672, active=964988928, inactive=704315392, buffers=85008384, cached=872484864, shared=150188032, slab=150605824) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245028282368, free=576461488128, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52431, write_count=30874, read_bytes=1377161216, write_bytes=190361600, read_time=1026422, write_time=392680, read_merged_count=2931, write_merged_count=8481, busy_time=211461)
+ Overall network stats
+ snetio(bytes_sent=1199770, bytes_recv=15432155, packets_sent=8000, packets_recv=129800, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 55: 2019-02-25 22:14:08:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10820485120, percent=12.0, used=1036619776, free=10303340544, active=964739072, inactive=704512000, buffers=85196800, cached=872513536, shared=150188032, slab=150630400) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245028286464, free=576461484032, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52431, write_count=31272, read_bytes=1377161216, write_bytes=192188416, read_time=1026422, write_time=394832, read_merged_count=2931, write_merged_count=8542, busy_time=213077)
+ Overall network stats
+ snetio(bytes_sent=1210496, bytes_recv=15577389, packets_sent=8084, packets_recv=131098, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 56: 2019-02-25 22:19:09:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10818940928, percent=12.0, used=1038151680, free=10301513728, active=965926912, inactive=704757760, buffers=85438464, cached=872566784, shared=150188032, slab=150638592) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245028319232, free=576461451264, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52437, write_count=31704, read_bytes=1377185792, write_bytes=194203648, read_time=1026502, write_time=397808, read_merged_count=2931, write_merged_count=8618, busy_time=215261)
+ Overall network stats
+ snetio(bytes_sent=1230568, bytes_recv=15777015, packets_sent=8203, packets_recv=132649, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 57: 2019-02-25 22:24:10:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10819801088, percent=12.0, used=1038594048, free=10302193664, active=967389184, inactive=703623168, buffers=85606400, cached=871276544, shared=148877312, slab=150659072) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245028319232, free=576461451264, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52437, write_count=32091, read_bytes=1377185792, write_bytes=198152192, read_time=1026502, write_time=399057, read_merged_count=2931, write_merged_count=8703, busy_time=216463)
+ Overall network stats
+ snetio(bytes_sent=1243406, bytes_recv=15923985, packets_sent=8300, packets_recv=133886, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 58: 2019-02-25 22:29:11:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10820075520, percent=12.0, used=1038319616, free=10302275584, active=966070272, inactive=703795200, buffers=85762048, cached=871313408, shared=148877312, slab=150663168) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245028352000, free=576461418496, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52437, write_count=32355, read_bytes=1377185792, write_bytes=199331840, read_time=1026502, write_time=400248, read_merged_count=2931, write_merged_count=8743, busy_time=217571)
+ Overall network stats
+ snetio(bytes_sent=1258401, bytes_recv=16117201, packets_sent=8402, packets_recv=135375, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 59: 2019-02-25 22:34:12:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10820063232, percent=12.0, used=1037021184, free=10301988864, active=964878336, inactive=705372160, buffers=86024192, cached=872636416, shared=150188032, slab=150671360) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245028368384, free=576461402112, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52437, write_count=32907, read_bytes=1377185792, write_bytes=201953280, read_time=1026502, write_time=402331, read_merged_count=2931, write_merged_count=8852, busy_time=219602)
+ Overall network stats
+ snetio(bytes_sent=1268749, bytes_recv=16277963, packets_sent=8483, packets_recv=136866, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 60: 2019-02-25 22:39:13:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10819833856, percent=12.0, used=1037246464, free=10301603840, active=965771264, inactive=705519616, buffers=86163456, cached=872656896, shared=150188032, slab=150679552) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245028380672, free=576461389824, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52437, write_count=33154, read_bytes=1377185792, write_bytes=203059200, read_time=1026502, write_time=403734, read_merged_count=2931, write_merged_count=8889, busy_time=220754)
+ Overall network stats
+ snetio(bytes_sent=1279572, bytes_recv=16409990, packets_sent=8568, packets_recv=138005, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 61: 2019-02-25 22:44:14:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10819112960, percent=12.0, used=1037975552, free=10300633088, active=966156288, inactive=705740800, buffers=86376448, cached=872685568, shared=150188032, slab=150675456) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245028413440, free=576461357056, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52437, write_count=33575, read_bytes=1377185792, write_bytes=205090816, read_time=1026502, write_time=405515, read_merged_count=2931, write_merged_count=8968, busy_time=222458)
+ Overall network stats
+ snetio(bytes_sent=1299762, bytes_recv=16597532, packets_sent=8696, packets_recv=139441, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 62: 2019-02-25 22:49:15:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10818170880, percent=12.0, used=1038921728, free=10299568128, active=967438336, inactive=705843200, buffers=86605824, cached=872574976, shared=150188032, slab=150671360) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245028306944, free=576461463552, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52437, write_count=34003, read_bytes=1377185792, write_bytes=207663104, read_time=1026502, write_time=408035, read_merged_count=2931, write_merged_count=9065, busy_time=224482)
+ Overall network stats
+ snetio(bytes_sent=1322127, bytes_recv=16804469, packets_sent=8829, packets_recv=140745, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 63: 2019-02-25 22:54:17:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10817466368, percent=12.0, used=1039622144, free=10298671104, active=967725056, inactive=706035712, buffers=86790144, cached=872587264, shared=150188032, slab=150683648) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245028315136, free=576461455360, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52437, write_count=34437, read_bytes=1377185792, write_bytes=209702912, read_time=1026502, write_time=409662, read_merged_count=2931, write_merged_count=9143, busy_time=226002)
+ Overall network stats
+ snetio(bytes_sent=1332802, bytes_recv=16984725, packets_sent=8913, packets_recv=142279, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 64: 2019-02-25 22:59:18:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10851176448, percent=11.8, used=1005903872, free=10332241920, active=934653952, inactive=706170880, buffers=86921216, cached=872603648, shared=150188032, slab=150687744) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245028327424, free=576461443072, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52437, write_count=34672, read_bytes=1377185792, write_bytes=210759680, read_time=1026502, write_time=410799, read_merged_count=2931, write_merged_count=9178, busy_time=227047)
+ Overall network stats
+ snetio(bytes_sent=1343724, bytes_recv=17111546, packets_sent=9000, packets_recv=143340, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 65: 2019-02-25 23:04:19:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10850988032, percent=11.8, used=1006092288, free=10331885568, active=934420480, inactive=706326528, buffers=87068672, cached=872624128, shared=150188032, slab=150691840) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245028343808, free=576461426688, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52437, write_count=34993, read_bytes=1377185792, write_bytes=212258816, read_time=1026502, write_time=413060, read_merged_count=2931, write_merged_count=9238, busy_time=228425)
+ Overall network stats
+ snetio(bytes_sent=1354058, bytes_recv=17280372, packets_sent=9080, packets_recv=144853, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 66: 2019-02-25 23:09:20:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10832171008, percent=11.9, used=1024909312, free=10312794112, active=953536512, inactive=706555904, buffers=87228416, cached=872738816, shared=150188032, slab=150704128) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245028454400, free=576461316096, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52437, write_count=35305, read_bytes=1377185792, write_bytes=213889024, read_time=1026502, write_time=414697, read_merged_count=2931, write_merged_count=9298, busy_time=229829)
+ Overall network stats
+ snetio(bytes_sent=1372337, bytes_recv=17478084, packets_sent=9204, packets_recv=146157, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 67: 2019-02-25 23:14:21:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10822500352, percent=12.0, used=1035878400, free=10302861312, active=963915776, inactive=705499136, buffers=87474176, cached=871456768, shared=148877312, slab=150728704) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245028462592, free=576461307904, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52437, write_count=35815, read_bytes=1377185792, write_bytes=218411008, read_time=1026502, write_time=417093, read_merged_count=2931, write_merged_count=9408, busy_time=232151)
+ Overall network stats
+ snetio(bytes_sent=1385274, bytes_recv=17629305, packets_sent=9300, packets_recv=147412, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 68: 2019-02-25 23:19:22:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10817376256, percent=12.0, used=1040994304, free=10297241600, active=968085504, inactive=705925120, buffers=87863296, cached=871571456, shared=148877312, slab=150736896) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245028548608, free=576461221888, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52439, write_count=36557, read_bytes=1377193984, write_bytes=222097408, read_time=1026534, write_time=420556, read_merged_count=2931, write_merged_count=9557, busy_time=235461)
+ Overall network stats
+ snetio(bytes_sent=1468303, bytes_recv=18104912, packets_sent=9597, packets_recv=150733, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 69: 2019-02-25 23:24:23:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10818232320, percent=12.0, used=1040142336, free=10297827328, active=968077312, inactive=706183168, buffers=88100864, cached=871600128, shared=148877312, slab=150740992) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245028577280, free=576461193216, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52439, write_count=37084, read_bytes=1377193984, write_bytes=224653312, read_time=1026534, write_time=422457, read_merged_count=2931, write_merged_count=9669, busy_time=237322)
+ Overall network stats
+ snetio(bytes_sent=1496087, bytes_recv=18292413, packets_sent=9749, packets_recv=152118, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 70: 2019-02-25 23:29:24:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10818052096, percent=12.0, used=1040314368, free=10297495552, active=968404992, inactive=706322432, buffers=88240128, cached=871620608, shared=148877312, slab=150745088) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245028593664, free=576461176832, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52439, write_count=37343, read_bytes=1377193984, write_bytes=225832960, read_time=1026534, write_time=423725, read_merged_count=2931, write_merged_count=9711, busy_time=238538)
+ Overall network stats
+ snetio(bytes_sent=1506331, bytes_recv=18457942, packets_sent=9828, packets_recv=153516, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 71: 2019-02-25 23:34:25:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10814955520, percent=12.1, used=1042092032, free=10294173696, active=970526720, inactive=707842048, buffers=88436736, cached=872968192, shared=150188032, slab=150769664) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245028610048, free=576461160448, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52439, write_count=37709, read_bytes=1377193984, write_bytes=227545088, read_time=1026534, write_time=425620, read_merged_count=2931, write_merged_count=9783, busy_time=240374)
+ Overall network stats
+ snetio(bytes_sent=1517344, bytes_recv=18644326, packets_sent=9916, packets_recv=155145, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 72: 2019-02-25 23:39:26:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10817638400, percent=12.0, used=1040719872, free=10296647680, active=968810496, inactive=706736128, buffers=88621056, cached=871682048, shared=148877312, slab=150777856) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245028626432, free=576461144064, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52439, write_count=38067, read_bytes=1377193984, write_bytes=229183488, read_time=1026534, write_time=427197, read_merged_count=2931, write_merged_count=9839, busy_time=241874)
+ Overall network stats
+ snetio(bytes_sent=1532379, bytes_recv=18792949, packets_sent=10020, packets_recv=156272, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 73: 2019-02-25 23:44:27:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10821001216, percent=12.0, used=1037344768, free=10299666432, active=966512640, inactive=707031040, buffers=88920064, cached=871739392, shared=148877312, slab=150781952) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245028675584, free=576461094912, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52441, write_count=38607, read_bytes=1377202176, write_bytes=231804928, read_time=1026564, write_time=429718, read_merged_count=2931, write_merged_count=9943, busy_time=244251)
+ Overall network stats
+ snetio(bytes_sent=1561117, bytes_recv=19005773, packets_sent=10175, packets_recv=157834, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 74: 2019-02-25 23:49:28:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10817761280, percent=12.0, used=1039278080, free=10296147968, active=967536640, inactive=708591616, buffers=89100288, cached=873144320, shared=150188032, slab=150790144) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245028757504, free=576461012992, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52443, write_count=38959, read_bytes=1377210368, write_bytes=233910272, read_time=1026584, write_time=431207, read_merged_count=2931, write_merged_count=10023, busy_time=245606)
+ Overall network stats
+ snetio(bytes_sent=1577743, bytes_recv=19183475, packets_sent=10290, packets_recv=158993, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 75: 2019-02-25 23:54:29:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10815119360, percent=12.1, used=1041920000, free=10293301248, active=969850880, inactive=708784128, buffers=89288704, cached=873160704, shared=150188032, slab=150798336) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245028769792, free=576461000704, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52443, write_count=39376, read_bytes=1377210368, write_bytes=235859968, read_time=1026584, write_time=432976, read_merged_count=2931, write_merged_count=10103, busy_time=247188)
+ Overall network stats
+ snetio(bytes_sent=1590431, bytes_recv=19369488, packets_sent=10381, packets_recv=160575, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 76: 2019-02-25 23:59:30:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10814988288, percent=12.1, used=1042038784, free=10292981760, active=969113600, inactive=708947968, buffers=89448448, cached=873201664, shared=150188032, slab=150822912) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245028786176, free=576460984320, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52443, write_count=39693, read_bytes=1377210368, write_bytes=237359104, read_time=1026584, write_time=434283, read_merged_count=2931, write_merged_count=10158, busy_time=248454)
+ Overall network stats
+ snetio(bytes_sent=1605737, bytes_recv=19523833, packets_sent=10487, packets_recv=161779, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 77: 2019-02-26 00:04:32:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10815365120, percent=12.1, used=1041592320, free=10293129216, active=969498624, inactive=709156864, buffers=89628672, cached=873320448, shared=150245376, slab=150859776) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245028810752, free=576460959744, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52443, write_count=40138, read_bytes=1377210368, write_bytes=241618944, read_time=1026584, write_time=435717, read_merged_count=2931, write_merged_count=10263, busy_time=249816)
+ Overall network stats
+ snetio(bytes_sent=1618763, bytes_recv=19687188, packets_sent=10585, packets_recv=163111, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 78: 2019-02-26 00:09:33:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 1.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10814410752, percent=12.1, used=1043849216, free=10291896320, active=972066816, inactive=708104192, buffers=89817088, cached=872108032, shared=148934656, slab=150863872) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245028904960, free=576460865536, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52443, write_count=40525, read_bytes=1377210368, write_bytes=243593216, read_time=1026584, write_time=437115, read_merged_count=2931, write_merged_count=10335, busy_time=251124)
+ Overall network stats
+ snetio(bytes_sent=1632256, bytes_recv=19898767, packets_sent=10685, packets_recv=164734, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 79: 2019-02-26 00:14:34:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10815377408, percent=12.1, used=1042882560, free=10292617216, active=971177984, inactive=708292608, buffers=90001408, cached=872169472, shared=148934656, slab=150867968) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245028962304, free=576460808192, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=52443, write_count=40881, read_bytes=1377210368, write_bytes=245280768, read_time=1026584, write_time=438647, read_merged_count=2931, write_merged_count=10402, busy_time=252584)
+ Overall network stats
+ snetio(bytes_sent=1645088, bytes_recv=20056495, packets_sent=10779, packets_recv=165931, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 80: 2019-02-26 00:19:35:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10784329728, percent=12.3, used=1046282240, free=10152660992, active=1019133952, inactive=743321600, buffers=159215616, cached=939511808, shared=148877312, slab=208027648) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245028843520, free=576460926976, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=86298, write_count=43845, read_bytes=1537477632, write_bytes=282038272, read_time=1121725, write_time=456393, read_merged_count=3038, write_merged_count=11708, busy_time=275184)
+ Overall network stats
+ snetio(bytes_sent=1666136, bytes_recv=20256855, packets_sent=10910, packets_recv=167410, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 81: 2019-02-26 00:24:36:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10780565504, percent=12.3, used=1048735744, free=10148659200, active=1021562880, inactive=744845312, buffers=159420416, cached=940855296, shared=150188032, slab=207994880) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245028851712, free=576460918784, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=86298, write_count=44268, read_bytes=1537477632, write_bytes=283987968, read_time=1121725, write_time=458127, read_merged_count=3038, write_merged_count=11784, busy_time=276854)
+ Overall network stats
+ snetio(bytes_sent=1678802, bytes_recv=20430618, packets_sent=11000, packets_recv=168982, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 82: 2019-02-26 00:29:37:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10783502336, percent=12.3, used=1045786624, free=10151387136, active=1019121664, inactive=745046016, buffers=159612928, cached=940883968, shared=150188032, slab=207982592) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245028859904, free=576460910592, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=86298, write_count=44573, read_bytes=1537477632, write_bytes=285372416, read_time=1121725, write_time=459416, read_merged_count=3038, write_merged_count=11837, busy_time=278125)
+ Overall network stats
+ snetio(bytes_sent=1689594, bytes_recv=20573214, packets_sent=11084, packets_recv=170190, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 83: 2019-02-26 00:34:38:
+Overall cpu load(for each core)
+ [1.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10782507008, percent=12.3, used=1046761472, free=10150211584, active=1019600896, inactive=745205760, buffers=159768576, cached=940929024, shared=150188032, slab=207990784) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245028896768, free=576460873728, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=86298, write_count=44904, read_bytes=1537477632, write_bytes=286920704, read_time=1121725, write_time=460741, read_merged_count=3038, write_merged_count=11898, busy_time=279395)
+ Overall network stats
+ snetio(bytes_sent=1704607, bytes_recv=20756452, packets_sent=11188, packets_recv=171612, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 84: 2019-02-26 00:39:39:
+Overall cpu load(for each core)
+ [0.0, 1.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10782638080, percent=12.3, used=1046634496, free=10150174720, active=1019277312, inactive=745365504, buffers=159928320, cached=940933120, shared=150188032, slab=207974400) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245028896768, free=576460873728, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=86298, write_count=45241, read_bytes=1537477632, write_bytes=288493568, read_time=1121725, write_time=462027, read_merged_count=3038, write_merged_count=11955, busy_time=280625)
+ Overall network stats
+ snetio(bytes_sent=1715368, bytes_recv=20912061, packets_sent=11272, packets_recv=172984, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 85: 2019-02-26 00:44:40:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10780418048, percent=12.3, used=1048858624, free=10147647488, active=1021775872, inactive=745639936, buffers=160182272, cached=940982272, shared=150188032, slab=207990784) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245028925440, free=576460845056, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=86300, write_count=45776, read_bytes=1537485824, write_bytes=291049472, read_time=1121767, write_time=464167, read_merged_count=3038, write_merged_count=12056, busy_time=282759)
+ Overall network stats
+ snetio(bytes_sent=1735209, bytes_recv=21127480, packets_sent=11395, packets_recv=174725, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 86: 2019-02-26 00:49:41:
+Overall cpu load(for each core)
+ [0.0, 7.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10782408704, percent=12.3, used=1046855680, free=10149396480, active=1020346368, inactive=745861120, buffers=160362496, cached=941056000, shared=150188032, slab=208011264) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245028978688, free=576460791808, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=86300, write_count=46124, read_bytes=1537485824, write_bytes=295235584, read_time=1121767, write_time=466068, read_merged_count=3038, write_merged_count=12146, busy_time=284537)
+ Overall network stats
+ snetio(bytes_sent=1753833, bytes_recv=21335450, packets_sent=11520, packets_recv=176160, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 87: 2019-02-26 00:54:42:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10781507584, percent=12.3, used=1047740416, free=10148302848, active=1020633088, inactive=746020864, buffers=160530432, cached=941096960, shared=150188032, slab=208027648) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245028999168, free=576460771328, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=86300, write_count=46450, read_bytes=1537485824, write_bytes=296701952, read_time=1121767, write_time=467782, read_merged_count=3038, write_merged_count=12199, busy_time=286210)
+ Overall network stats
+ snetio(bytes_sent=1771245, bytes_recv=21516349, packets_sent=11635, packets_recv=177574, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 88: 2019-02-26 00:59:43:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10781667328, percent=12.3, used=1047580672, free=10148270080, active=1020583936, inactive=746217472, buffers=160714752, cached=941105152, shared=150188032, slab=208031744) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245029003264, free=576460767232, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=86300, write_count=46817, read_bytes=1537485824, write_bytes=298414080, read_time=1121767, write_time=469828, read_merged_count=3038, write_merged_count=12259, busy_time=287860)
+ Overall network stats
+ snetio(bytes_sent=1781851, bytes_recv=21690700, packets_sent=11718, packets_recv=179087, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 89: 2019-02-26 01:04:45:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10781192192, percent=12.3, used=1048051712, free=10147614720, active=1020239872, inactive=746381312, buffers=160866304, cached=941137920, shared=150188032, slab=208056320) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245029019648, free=576460750848, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=86300, write_count=47146, read_bytes=1537485824, write_bytes=299962368, read_time=1121767, write_time=472738, read_merged_count=3038, write_merged_count=12325, busy_time=289560)
+ Overall network stats
+ snetio(bytes_sent=1792000, bytes_recv=21863170, packets_sent=11796, packets_recv=180651, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 90: 2019-02-26 01:09:46:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10778931200, percent=12.3, used=1050316800, free=10145075200, active=1022930944, inactive=746627072, buffers=161038336, cached=941240320, shared=150188032, slab=208060416) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245029122048, free=576460648448, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=86300, write_count=47520, read_bytes=1537485824, write_bytes=301895680, read_time=1121767, write_time=474250, read_merged_count=3038, write_merged_count=12396, busy_time=290990)
+ Overall network stats
+ snetio(bytes_sent=1805180, bytes_recv=22058677, packets_sent=11892, packets_recv=182126, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 91: 2019-02-26 01:14:47:
+Overall cpu load(for each core)
+ [0.0, 0.0, 1.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10779504640, percent=12.3, used=1049731072, free=10145374208, active=1023135744, inactive=746840064, buffers=161247232, cached=941318144, shared=150188032, slab=208068608) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245029187584, free=576460582912, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=86300, write_count=47919, read_bytes=1537485824, write_bytes=303796224, read_time=1121767, write_time=476297, read_merged_count=3038, write_merged_count=12471, busy_time=292794)
+ Overall network stats
+ snetio(bytes_sent=1824551, bytes_recv=22251376, packets_sent=12019, packets_recv=183456, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 92: 2019-02-26 01:19:48:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10780811264, percent=12.3, used=1048424448, free=10146455552, active=1021190144, inactive=747057152, buffers=161460224, cached=941330432, shared=150188032, slab=208076800) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245029191680, free=576460578816, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=86300, write_count=48309, read_bytes=1537485824, write_bytes=305672192, read_time=1121767, write_time=478227, read_merged_count=3038, write_merged_count=12526, busy_time=294650)
+ Overall network stats
+ snetio(bytes_sent=1838610, bytes_recv=22605600, packets_sent=12113, packets_recv=186412, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 93: 2019-02-26 01:24:49:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10780852224, percent=12.3, used=1048387584, free=10146295808, active=1021370368, inactive=747253760, buffers=161644544, cached=941342720, shared=150188032, slab=208084992) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245029203968, free=576460566528, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=86300, write_count=48699, read_bytes=1537485824, write_bytes=307515392, read_time=1121767, write_time=479853, read_merged_count=3038, write_merged_count=12596, busy_time=296196)
+ Overall network stats
+ snetio(bytes_sent=1850762, bytes_recv=22787953, packets_sent=12198, packets_recv=188043, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 94: 2019-02-26 01:29:50:
+Overall cpu load(for each core)
+ [0.0, 0.0, 1.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10780639232, percent=12.3, used=1048596480, free=10145853440, active=1021579264, inactive=747479040, buffers=161865728, cached=941355008, shared=150188032, slab=208084992) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245029216256, free=576460554240, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=86300, write_count=49061, read_bytes=1537485824, write_bytes=309178368, read_time=1121767, write_time=482065, read_merged_count=3038, write_merged_count=12662, busy_time=297985)
+ Overall network stats
+ snetio(bytes_sent=1861365, bytes_recv=22979601, packets_sent=12281, packets_recv=189756, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 95: 2019-02-26 01:34:51:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10777989120, percent=12.4, used=1051226112, free=10143002624, active=1024122880, inactive=747663360, buffers=162037760, cached=941404160, shared=150188032, slab=208097280) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245029257216, free=576460513280, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=86300, write_count=49401, read_bytes=1537485824, write_bytes=310759424, read_time=1121767, write_time=483437, read_merged_count=3038, write_merged_count=12723, busy_time=299315)
+ Overall network stats
+ snetio(bytes_sent=1876303, bytes_recv=23185018, packets_sent=12383, packets_recv=191409, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 96: 2019-02-26 01:39:52:
+Overall cpu load(for each core)
+ [0.0, 1.0, 3.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10779987968, percent=12.3, used=1049219072, free=10144690176, active=1021927424, inactive=747929600, buffers=162263040, cached=941498368, shared=150188032, slab=208154624) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245029253120, free=576460517376, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=86310, write_count=49807, read_bytes=1537526784, write_bytes=314814464, read_time=1121829, write_time=485131, read_merged_count=3038, write_merged_count=12817, busy_time=301038)
+ Overall network stats
+ snetio(bytes_sent=1889136, bytes_recv=23316008, packets_sent=12478, packets_recv=192421, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 97: 2019-02-26 01:44:53:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10781917184, percent=12.3, used=1048604672, free=10146353152, active=1021698048, inactive=746864640, buffers=162504704, cached=940208128, shared=148877312, slab=208146432) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245029285888, free=576460484608, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=86310, write_count=50350, read_bytes=1537526784, write_bytes=317411328, read_time=1121829, write_time=487223, read_merged_count=3038, write_merged_count=12917, busy_time=302968)
+ Overall network stats
+ snetio(bytes_sent=1912608, bytes_recv=23519835, packets_sent=12616, packets_recv=194031, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 98: 2019-02-26 01:49:54:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10781458432, percent=12.3, used=1049038848, free=10145619968, active=1021767680, inactive=747110400, buffers=162717696, cached=940294144, shared=148877312, slab=208158720) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245029363712, free=576460406784, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=86310, write_count=50764, read_bytes=1537526784, write_bytes=319795200, read_time=1121829, write_time=488771, read_merged_count=3038, write_merged_count=13003, busy_time=304496)
+ Overall network stats
+ snetio(bytes_sent=1929505, bytes_recv=23718475, packets_sent=12734, packets_recv=195381, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 99: 2019-02-26 01:54:55:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10783248384, percent=12.3, used=1047273472, free=10147217408, active=1020473344, inactive=747286528, buffers=162881536, cached=940298240, shared=148877312, slab=208154624) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245029376000, free=576460394496, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=86310, write_count=51084, read_bytes=1537526784, write_bytes=321277952, read_time=1121829, write_time=490403, read_merged_count=3038, write_merged_count=13055, busy_time=305805)
+ Overall network stats
+ snetio(bytes_sent=1946405, bytes_recv=23888577, packets_sent=12841, packets_recv=196714, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 100: 2019-02-26 01:59:56:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10781388800, percent=12.3, used=1049128960, free=10145177600, active=1022144512, inactive=747470848, buffers=163049472, cached=940314624, shared=148877312, slab=208162816) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245029380096, free=576460390400, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=86312, write_count=51422, read_bytes=1537534976, write_bytes=322875392, read_time=1121863, write_time=491551, read_merged_count=3038, write_merged_count=13114, busy_time=306935)
+ Overall network stats
+ snetio(bytes_sent=1956655, bytes_recv=24059083, packets_sent=12920, packets_recv=198201, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 101: 2019-02-26 02:04:57:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10825240576, percent=12.0, used=1003962368, free=10188857344, active=977690624, inactive=748929024, buffers=163205120, cached=941645824, shared=150188032, slab=208150528) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245029396480, free=576460374016, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=86312, write_count=51748, read_bytes=1537534976, write_bytes=324390912, read_time=1121863, write_time=492985, read_merged_count=3038, write_merged_count=13168, busy_time=308246)
+ Overall network stats
+ snetio(bytes_sent=1967379, bytes_recv=24238579, packets_sent=13005, packets_recv=199815, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 102: 2019-02-26 02:09:59:
+Overall cpu load(for each core)
+ [0.0, 0.0, 2.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10821328896, percent=12.0, used=1007874048, free=10184675328, active=980992000, inactive=749166592, buffers=163373056, cached=941748224, shared=150188032, slab=208158720) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245029494784, free=576460275712, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=86312, write_count=52099, read_bytes=1537534976, write_bytes=326225920, read_time=1121863, write_time=494191, read_merged_count=3038, write_merged_count=13238, busy_time=309442)
+ Overall network stats
+ snetio(bytes_sent=1981104, bytes_recv=24431683, packets_sent=13108, packets_recv=201250, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 103: 2019-02-26 02:15:00:
+Overall cpu load(for each core)
+ [0.0, 1.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10810093568, percent=12.1, used=1019092992, free=10173149184, active=992669696, inactive=749346816, buffers=163627008, cached=941801472, shared=150188032, slab=208191488) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245029515264, free=576460255232, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=86312, write_count=52597, read_bytes=1537534976, write_bytes=328617984, read_time=1121863, write_time=497370, read_merged_count=3038, write_merged_count=13329, busy_time=311646)
+ Overall network stats
+ snetio(bytes_sent=2004715, bytes_recv=24630471, packets_sent=13255, packets_recv=202647, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 104: 2019-02-26 02:20:01:
+Overall cpu load(for each core)
+ [6.0, 4.0, 5.0, 5.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10796040192, percent=12.2, used=1034448896, free=10158841856, active=1007505408, inactive=748318720, buffers=163852288, cached=940527616, shared=148877312, slab=208195584) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245029556224, free=576460214272, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=86312, write_count=53011, read_bytes=1537534976, write_bytes=330592256, read_time=1121863, write_time=499199, read_merged_count=3038, write_merged_count=13403, busy_time=313435)
+ Overall network stats
+ snetio(bytes_sent=2018869, bytes_recv=24768605, packets_sent=13350, packets_recv=203746, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 105: 2019-02-26 02:25:02:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10791698432, percent=12.2, used=1038807040, free=10154315776, active=1012080640, inactive=748503040, buffers=164020224, cached=940527616, shared=148877312, slab=208183296) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245029560320, free=576460210176, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=86316, write_count=53376, read_bytes=1537551360, write_bytes=332279808, read_time=1121979, write_time=500633, read_merged_count=3038, write_merged_count=13469, busy_time=314865)
+ Overall network stats
+ snetio(bytes_sent=2031871, bytes_recv=24950673, packets_sent=13444, packets_recv=205356, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 106: 2019-02-26 02:30:03:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10793205760, percent=12.2, used=1037287424, free=10155552768, active=1010860032, inactive=748748800, buffers=164261888, cached=940568576, shared=148877312, slab=208211968) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245029576704, free=576460193792, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=86316, write_count=53810, read_bytes=1537551360, write_bytes=336441344, read_time=1121979, write_time=502471, read_merged_count=3038, write_merged_count=13570, busy_time=316612)
+ Overall network stats
+ snetio(bytes_sent=2044066, bytes_recv=25105964, packets_sent=13532, packets_recv=206623, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 107: 2019-02-26 02:35:04:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10793406464, percent=12.2, used=1037078528, free=10155585536, active=1010929664, inactive=748888064, buffers=164417536, cached=940589056, shared=148877312, slab=208207872) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245029597184, free=576460173312, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=86316, write_count=54116, read_bytes=1537551360, write_bytes=337874944, read_time=1121979, write_time=503867, read_merged_count=3038, write_merged_count=13625, busy_time=317966)
+ Overall network stats
+ snetio(bytes_sent=2059366, bytes_recv=25315110, packets_sent=13638, packets_recv=208319, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 108: 2019-02-26 02:40:05:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10793017344, percent=12.2, used=1037471744, free=10155012096, active=1010745344, inactive=749072384, buffers=164585472, cached=940601344, shared=148877312, slab=208228352) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245029601280, free=576460169216, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=86316, write_count=54432, read_bytes=1537551360, write_bytes=339341312, read_time=1121979, write_time=505323, read_merged_count=3038, write_merged_count=13676, busy_time=319408)
+ Overall network stats
+ snetio(bytes_sent=2070259, bytes_recv=25447213, packets_sent=13725, packets_recv=209452, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 109: 2019-02-26 02:45:06:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10790789120, percent=12.3, used=1038389248, free=10152501248, active=1011675136, inactive=750645248, buffers=164843520, cached=941936640, shared=150188032, slab=208220160) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245029625856, free=576460144640, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=86316, write_count=54920, read_bytes=1537551360, write_bytes=341667840, read_time=1121979, write_time=507904, read_merged_count=3038, write_merged_count=13764, busy_time=321758)
+ Overall network stats
+ snetio(bytes_sent=2090227, bytes_recv=25625105, packets_sent=13851, packets_recv=210830, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 110: 2019-02-26 02:50:07:
+Overall cpu load(for each core)
+ [0.0, 1.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10792435712, percent=12.2, used=1036726272, free=10154024960, active=1009983488, inactive=750747648, buffers=165081088, cached=941838336, shared=150188032, slab=208244736) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245029515264, free=576460255232, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=86316, write_count=55386, read_bytes=1537551360, write_bytes=344412160, read_time=1121979, write_time=510096, read_merged_count=3038, write_merged_count=13872, busy_time=323890)
+ Overall network stats
+ snetio(bytes_sent=2108023, bytes_recv=25822585, packets_sent=13964, packets_recv=212145, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 111: 2019-02-26 02:55:08:
+Overall cpu load(for each core)
+ [0.0, 1.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10793025536, percent=12.2, used=1036132352, free=10154405888, active=1009676288, inactive=750956544, buffers=165277696, cached=941854720, shared=150188032, slab=208248832) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245029519360, free=576460251136, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=86316, write_count=55789, read_bytes=1537551360, write_bytes=346288128, read_time=1121979, write_time=512170, read_merged_count=3038, write_merged_count=13937, busy_time=325728)
+ Overall network stats
+ snetio(bytes_sent=2122927, bytes_recv=26020664, packets_sent=14066, packets_recv=213763, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 112: 2019-02-26 03:00:09:
+Overall cpu load(for each core)
+ [4.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10793074688, percent=12.2, used=1036095488, free=10154307584, active=1009520640, inactive=751095808, buffers=165400576, cached=941867008, shared=150188032, slab=208273408) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245029539840, free=576460230656, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=86316, write_count=56047, read_bytes=1537551360, write_bytes=347500544, read_time=1121979, write_time=513376, read_merged_count=3038, write_merged_count=13986, busy_time=326844)
+ Overall network stats
+ snetio(bytes_sent=2133099, bytes_recv=26186200, packets_sent=14145, packets_recv=215177, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 113: 2019-02-26 03:05:10:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10791968768, percent=12.2, used=1037193216, free=10152955904, active=1011187712, inactive=751312896, buffers=165556224, cached=941965312, shared=150188032, slab=208240640) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245029642240, free=576460128256, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=86316, write_count=56383, read_bytes=1537551360, write_bytes=349220864, read_time=1121979, write_time=514950, read_merged_count=3038, write_merged_count=14051, busy_time=328362)
+ Overall network stats
+ snetio(bytes_sent=2145852, bytes_recv=26371936, packets_sent=14236, packets_recv=216588, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 114: 2019-02-26 03:10:12:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10788872192, percent=12.3, used=1040289792, free=10149666816, active=1013526528, inactive=751497216, buffers=165720064, cached=941993984, shared=150188032, slab=208285696) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245029650432, free=576460120064, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=86316, write_count=56714, read_bytes=1537551360, write_bytes=350801920, read_time=1121979, write_time=516364, read_merged_count=3038, write_merged_count=14116, busy_time=329732)
+ Overall network stats
+ snetio(bytes_sent=2156141, bytes_recv=26533077, packets_sent=14316, packets_recv=218014, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 115: 2019-02-26 03:15:13:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10789453824, percent=12.3, used=1039695872, free=10149953536, active=1013522432, inactive=751751168, buffers=165969920, cached=942051328, shared=150188032, slab=208273408) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245029666816, free=576460103680, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=86326, write_count=57203, read_bytes=1537592320, write_bytes=353087488, read_time=1122011, write_time=518606, read_merged_count=3038, write_merged_count=14194, busy_time=331950)
+ Overall network stats
+ snetio(bytes_sent=2178412, bytes_recv=26747842, packets_sent=14454, packets_recv=219608, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 116: 2019-02-26 03:20:14:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10791489536, percent=12.2, used=1037647872, free=10151620608, active=1011171328, inactive=752078848, buffers=166244352, cached=942157824, shared=150188032, slab=208322560) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245029699584, free=576460070912, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=86328, write_count=57682, read_bytes=1537690624, write_bytes=357535744, read_time=1122047, write_time=520839, read_merged_count=3038, write_merged_count=14305, busy_time=334072)
+ Overall network stats
+ snetio(bytes_sent=2195808, bytes_recv=27099664, packets_sent=14558, packets_recv=222410, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 117: 2019-02-26 03:25:15:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10793332736, percent=12.2, used=1037115392, free=10153218048, active=1010925568, inactive=751017984, buffers=166490112, cached=940847104, shared=148877312, slab=208306176) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245029699584, free=576460070912, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=86328, write_count=58130, read_bytes=1537690624, write_bytes=359575552, read_time=1122047, write_time=522789, read_merged_count=3038, write_merged_count=14382, busy_time=335929)
+ Overall network stats
+ snetio(bytes_sent=2206343, bytes_recv=27277470, packets_sent=14641, packets_recv=223980, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 118: 2019-02-26 03:30:16:
+Overall cpu load(for each core)
+ [0.0, 1.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10790649856, percent=12.3, used=1038483456, free=10150375424, active=1011568640, inactive=752467968, buffers=166633472, cached=942178304, shared=150188032, slab=208347136) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245029715968, free=576460054528, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=86328, write_count=58386, read_bytes=1537690624, write_bytes=360779776, read_time=1122047, write_time=524223, read_merged_count=3038, write_merged_count=14433, busy_time=337331)
+ Overall network stats
+ snetio(bytes_sent=2216564, bytes_recv=27449769, packets_sent=14720, packets_recv=225491, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 119: 2019-02-26 03:35:17:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10789089280, percent=12.3, used=1040044032, free=10148577280, active=1013448704, inactive=752697344, buffers=166846464, cached=942202880, shared=150188032, slab=208326656) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245029740544, free=576460029952, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=86328, write_count=58802, read_bytes=1537690624, write_bytes=362713088, read_time=1122047, write_time=525741, read_merged_count=3038, write_merged_count=14507, busy_time=338811)
+ Overall network stats
+ snetio(bytes_sent=2231464, bytes_recv=27608606, packets_sent=14821, packets_recv=226741, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 120: 2019-02-26 03:40:18:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10790264832, percent=12.3, used=1038864384, free=10149576704, active=1012088832, inactive=752865280, buffers=167002112, cached=942227456, shared=150188032, slab=208343040) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245029756928, free=576460013568, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=86328, write_count=59069, read_bytes=1537690624, write_bytes=363909120, read_time=1122047, write_time=526885, read_merged_count=3038, write_merged_count=14549, busy_time=339911)
+ Overall network stats
+ snetio(bytes_sent=2242236, bytes_recv=27797304, packets_sent=14906, packets_recv=228424, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 121: 2019-02-26 03:45:19:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10774319104, percent=12.4, used=1059573760, free=9775120384, active=1191444480, inactive=939798528, buffers=167833600, cached=1295142912, shared=141991936, slab=215420928) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245030555648, free=576459214848, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=103444, write_count=60945, read_bytes=2162357248, write_bytes=537836544, read_time=1136939, write_time=546794, read_merged_count=3071, write_merged_count=15135, busy_time=354950)
+ Overall network stats
+ snetio(bytes_sent=2331851, bytes_recv=40781039, packets_sent=15893, packets_recv=238314, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 122: 2019-02-26 03:50:20:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10774130688, percent=12.4, used=1059749888, free=9774592000, active=1191223296, inactive=940093440, buffers=168067072, cached=1295261696, shared=141991936, slab=215465984) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245030637568, free=576459132928, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=103444, write_count=61385, read_bytes=2162357248, write_bytes=540310528, read_time=1136939, write_time=548781, read_merged_count=3071, write_merged_count=15224, busy_time=356908)
+ Overall network stats
+ snetio(bytes_sent=2350368, bytes_recv=40976211, packets_sent=16013, packets_recv=239591, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 123: 2019-02-26 03:55:21:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10771652608, percent=12.4, used=1062219776, free=9771888640, active=1194012672, inactive=940314624, buffers=168280064, cached=1295282176, shared=141991936, slab=215461888) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245030649856, free=576459120640, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=103444, write_count=61823, read_bytes=2162357248, write_bytes=542358528, read_time=1136939, write_time=550650, read_merged_count=3071, write_merged_count=15306, busy_time=358711)
+ Overall network stats
+ snetio(bytes_sent=2365652, bytes_recv=41152842, packets_sent=16120, packets_recv=240986, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 124: 2019-02-26 04:00:22:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10773753856, percent=12.4, used=1060110336, free=9773805568, active=1191604224, inactive=940478464, buffers=168443904, cached=1295310848, shared=141991936, slab=215474176) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245030666240, free=576459104256, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=103444, write_count=62128, read_bytes=2162357248, write_bytes=543767552, read_time=1136939, write_time=551852, read_merged_count=3071, write_merged_count=15363, busy_time=359863)
+ Overall network stats
+ snetio(bytes_sent=2376288, bytes_recv=41319249, packets_sent=16203, packets_recv=242498, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 125: 2019-02-26 04:05:23:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10771611648, percent=12.4, used=1062240256, free=9771364352, active=1193705472, inactive=940724224, buffers=168632320, cached=1295433728, shared=141991936, slab=215433216) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245030772736, free=576458997760, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=103444, write_count=62489, read_bytes=2162357248, write_bytes=545610752, read_time=1136939, write_time=553272, read_merged_count=3071, write_merged_count=15432, busy_time=361278)
+ Overall network stats
+ snetio(bytes_sent=2389742, bytes_recv=41508085, packets_sent=16302, packets_recv=243906, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 126: 2019-02-26 04:10:24:
+Overall cpu load(for each core)
+ [0.0, 0.0, 1.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10773815296, percent=12.4, used=1061339136, free=9773297664, active=1192984576, inactive=939659264, buffers=168865792, cached=1294168064, shared=140681216, slab=215461888) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245030793216, free=576458977280, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=103444, write_count=63033, read_bytes=2162357248, write_bytes=550337536, read_time=1136939, write_time=555280, read_merged_count=3071, write_merged_count=15552, busy_time=363240)
+ Overall network stats
+ snetio(bytes_sent=2405144, bytes_recv=41647183, packets_sent=16412, packets_recv=244966, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 127: 2019-02-26 04:15:26:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10773651456, percent=12.4, used=1061502976, free=9772851200, active=1193177088, inactive=939929600, buffers=169123840, cached=1294192640, shared=140681216, slab=215461888) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245030813696, free=576458956800, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=103446, write_count=63525, read_bytes=2162365440, write_bytes=552639488, read_time=1136973, write_time=557395, read_merged_count=3071, write_merged_count=15636, busy_time=365363)
+ Overall network stats
+ snetio(bytes_sent=2424768, bytes_recv=41852050, packets_sent=16542, packets_recv=246529, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 128: 2019-02-26 04:20:27:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10769584128, percent=12.4, used=1064247296, free=9768513536, active=1195929600, inactive=941486080, buffers=169369600, cached=1295540224, shared=141991936, slab=215486464) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245030830080, free=576458940416, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=103446, write_count=63930, read_bytes=2162365440, write_bytes=554499072, read_time=1136973, write_time=559512, read_merged_count=3071, write_merged_count=15705, busy_time=367440)
+ Overall network stats
+ snetio(bytes_sent=2440789, bytes_recv=41994317, packets_sent=16641, packets_recv=247665, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 129: 2019-02-26 04:25:28:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10769137664, percent=12.4, used=1064955904, free=9767813120, active=1195606016, inactive=941465600, buffers=169607168, cached=1295294464, shared=141729792, slab=215519232) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245030842368, free=576458928128, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=103446, write_count=64320, read_bytes=2162365440, write_bytes=556268544, read_time=1136973, write_time=561490, read_merged_count=3071, write_merged_count=15772, busy_time=369407)
+ Overall network stats
+ snetio(bytes_sent=2451491, bytes_recv=42165567, packets_sent=16727, packets_recv=249136, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 130: 2019-02-26 04:30:29:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10772934656, percent=12.4, used=1062383616, free=9771446272, active=1193459712, inactive=940392448, buffers=169758720, cached=1294082048, shared=140500992, slab=215527424) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245030854656, free=576458915840, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=103446, write_count=64591, read_bytes=2162365440, write_bytes=557538304, read_time=1136973, write_time=562708, read_merged_count=3071, write_merged_count=15826, busy_time=370604)
+ Overall network stats
+ snetio(bytes_sent=2462091, bytes_recv=42341157, packets_sent=16810, packets_recv=250682, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 131: 2019-02-26 04:35:30:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10771165184, percent=12.4, used=1062645760, free=9769443328, active=1193791488, inactive=942096384, buffers=169959424, cached=1295622144, shared=141991936, slab=215547904) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245030875136, free=576458895360, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=103446, write_count=64986, read_bytes=2162365440, write_bytes=559348736, read_time=1136973, write_time=564310, read_merged_count=3071, write_merged_count=15889, busy_time=372204)
+ Overall network stats
+ snetio(bytes_sent=2477582, bytes_recv=42502884, packets_sent=16919, packets_recv=251957, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 132: 2019-02-26 04:40:31:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10771513344, percent=12.4, used=1062305792, free=9769586688, active=1193648128, inactive=942284800, buffers=170123264, cached=1295654912, shared=141991936, slab=215580672) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245030895616, free=576458874880, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=103448, write_count=65268, read_bytes=2162373632, write_bytes=560602112, read_time=1137017, write_time=565483, read_merged_count=3071, write_merged_count=15931, busy_time=373396)
+ Overall network stats
+ snetio(bytes_sent=2488163, bytes_recv=42686403, packets_sent=17002, packets_recv=253490, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 133: 2019-02-26 04:45:32:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10770341888, percent=12.4, used=1064775680, free=9768140800, active=1195692032, inactive=941223936, buffers=170377216, cached=1294376960, shared=140681216, slab=215556096) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245030924288, free=576458846208, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=103448, write_count=65743, read_bytes=2162373632, write_bytes=562822144, read_time=1137017, write_time=567872, read_merged_count=3071, write_merged_count=16012, busy_time=375577)
+ Overall network stats
+ snetio(bytes_sent=2508169, bytes_recv=42864548, packets_sent=17127, packets_recv=254879, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 134: 2019-02-26 04:50:33:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10772443136, percent=12.4, used=1062670336, free=9769902080, active=1193906176, inactive=941531136, buffers=170635264, cached=1294462976, shared=140681216, slab=215580672) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245030993920, free=576458776576, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=103448, write_count=66221, read_bytes=2162373632, write_bytes=565459968, read_time=1137017, write_time=570144, read_merged_count=3071, write_merged_count=16106, busy_time=377601)
+ Overall network stats
+ snetio(bytes_sent=2526387, bytes_recv=43069911, packets_sent=17244, packets_recv=256299, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 135: 2019-02-26 04:55:34:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10771132416, percent=12.4, used=1062649856, free=9768390656, active=1194029056, inactive=943038464, buffers=170831872, cached=1295798272, shared=141991936, slab=215584768) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245031010304, free=576458760192, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=103448, write_count=66591, read_bytes=2162373632, write_bytes=567172096, read_time=1137017, write_time=572026, read_merged_count=3071, write_merged_count=16169, busy_time=379113)
+ Overall network stats
+ snetio(bytes_sent=2542042, bytes_recv=43253978, packets_sent=17356, packets_recv=257737, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 136: 2019-02-26 05:00:35:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 1.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10770620416, percent=12.4, used=1062899712, free=9767645184, active=1193586688, inactive=943505408, buffers=171012096, cached=1296113664, shared=142254080, slab=215625728) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245031030784, free=576458739712, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=103448, write_count=67010, read_bytes=2162373632, write_bytes=571333632, read_time=1137017, write_time=573374, read_merged_count=3071, write_merged_count=16274, busy_time=380450)
+ Overall network stats
+ snetio(bytes_sent=2554648, bytes_recv=43397512, packets_sent=17449, packets_recv=258870, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 137: 2019-02-26 05:05:36:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10799362048, percent=12.2, used=1035468800, free=9795891200, active=1167015936, inactive=942620672, buffers=171229184, cached=1295081472, shared=140943360, slab=215629824) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245031137280, free=576458633216, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=103466, write_count=67400, read_bytes=2162701312, write_bytes=573381632, read_time=1137093, write_time=574801, read_merged_count=3071, write_merged_count=16360, busy_time=381912)
+ Overall network stats
+ snetio(bytes_sent=2572977, bytes_recv=43617537, packets_sent=17568, packets_recv=260512, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 138: 2019-02-26 05:10:38:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10797891584, percent=12.2, used=1036935168, free=9794236416, active=1168478208, inactive=942792704, buffers=171388928, cached=1295110144, shared=140943360, slab=215642112) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245031157760, free=576458612736, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=103466, write_count=67739, read_bytes=2162701312, write_bytes=575028224, read_time=1137093, write_time=575988, read_merged_count=3071, write_merged_count=16420, busy_time=383087)
+ Overall network stats
+ snetio(bytes_sent=2588111, bytes_recv=43760686, packets_sent=17673, packets_recv=261601, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 139: 2019-02-26 05:15:39:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10798612480, percent=12.2, used=1036214272, free=9794732032, active=1167998976, inactive=943013888, buffers=171601920, cached=1295122432, shared=140943360, slab=215629824) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245031165952, free=576458604544, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=103466, write_count=68164, read_bytes=2162701312, write_bytes=576994304, read_time=1137093, write_time=577358, read_merged_count=3071, write_merged_count=16485, busy_time=384437)
+ Overall network stats
+ snetio(bytes_sent=2603238, bytes_recv=43965456, packets_sent=17782, packets_recv=263279, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 140: 2019-02-26 05:20:40:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 1.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10791841792, percent=12.2, used=1041911808, free=9787666432, active=1173442560, inactive=944320512, buffers=171855872, cached=1296236544, shared=141991936, slab=215670784) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245031190528, free=576458579968, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=103466, write_count=68593, read_bytes=2162701312, write_bytes=578976768, read_time=1137093, write_time=579660, read_merged_count=3071, write_merged_count=16560, busy_time=386299)
+ Overall network stats
+ snetio(bytes_sent=2618997, bytes_recv=44301884, packets_sent=17879, packets_recv=266035, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 141: 2019-02-26 05:25:41:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10783649792, percent=12.3, used=1051406336, free=9779257344, active=1183305728, inactive=943222784, buffers=172068864, cached=1294938112, shared=140681216, slab=215666688) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245031206912, free=576458563584, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=103466, write_count=68969, read_bytes=2162701312, write_bytes=580738048, read_time=1137093, write_time=581551, read_merged_count=3071, write_merged_count=16634, busy_time=388184)
+ Overall network stats
+ snetio(bytes_sent=2629877, bytes_recv=44462378, packets_sent=17966, packets_recv=267483, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 142: 2019-02-26 05:30:42:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10767851520, percent=12.4, used=1065865216, free=9763270656, active=1196695552, inactive=944709632, buffers=172236800, cached=1296297984, shared=141991936, slab=215678976) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245031243776, free=576458526720, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=103466, write_count=69296, read_bytes=2162701312, write_bytes=582261760, read_time=1137093, write_time=582864, read_merged_count=3071, write_merged_count=16695, busy_time=389410)
+ Overall network stats
+ snetio(bytes_sent=2644749, bytes_recv=44640587, packets_sent=18067, packets_recv=268829, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 143: 2019-02-26 05:35:43:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10762735616, percent=12.5, used=1071001600, free=9757954048, active=1202552832, inactive=944910336, buffers=172417024, cached=1296297984, shared=141991936, slab=215683072) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245031239680, free=576458530816, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=103466, write_count=69628, read_bytes=2162701312, write_bytes=583810048, read_time=1137093, write_time=584187, read_merged_count=3071, write_merged_count=16749, busy_time=390705)
+ Overall network stats
+ snetio(bytes_sent=2655483, bytes_recv=44818143, packets_sent=18151, packets_recv=270430, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 144: 2019-02-26 05:40:44:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10766376960, percent=12.5, used=1067364352, free=9761394688, active=1198407680, inactive=945086464, buffers=172576768, cached=1296334848, shared=141991936, slab=215703552) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245031256064, free=576458514432, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=103466, write_count=69912, read_bytes=2162701312, write_bytes=585104384, read_time=1137093, write_time=585341, read_merged_count=3071, write_merged_count=16795, busy_time=391856)
+ Overall network stats
+ snetio(bytes_sent=2666083, bytes_recv=45062866, packets_sent=18236, packets_recv=272545, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 145: 2019-02-26 05:45:45:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10769403904, percent=12.4, used=1065820160, free=9764093952, active=1196802048, inactive=943894528, buffers=172867584, cached=1294888960, shared=140500992, slab=215711744) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245031288832, free=576458481664, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=103466, write_count=70399, read_bytes=2162701312, write_bytes=587406336, read_time=1137093, write_time=587580, read_merged_count=3071, write_merged_count=16881, busy_time=394074)
+ Overall network stats
+ snetio(bytes_sent=2695062, bytes_recv=45299693, packets_sent=18406, packets_recv=274385, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 146: 2019-02-26 05:50:46:
+Overall cpu load(for each core)
+ [1.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10750103552, percent=12.6, used=1074974720, free=9744289792, active=1204117504, inactive=954105856, buffers=173170688, cached=1305235456, shared=150540288, slab=216006656) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245031411712, free=576458358784, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=103468, write_count=71053, read_bytes=2162709504, write_bytes=593296384, read_time=1137111, write_time=590151, read_merged_count=3071, write_merged_count=17093, busy_time=396515)
+ Overall network stats
+ snetio(bytes_sent=2719859, bytes_recv=45552341, packets_sent=18554, packets_recv=276092, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 147: 2019-02-26 05:55:47:
+Overall cpu load(for each core)
+ [11.0, 1.0, 5.1, 7.1]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10748862464, percent=12.6, used=1072668672, free=9742737408, active=1203802112, inactive=958054400, buffers=173441024, cached=1308823552, shared=154079232, slab=215969792) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245031419904, free=576458350592, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=103468, write_count=71749, read_bytes=2162709504, write_bytes=596720640, read_time=1137111, write_time=592959, read_merged_count=3071, write_merged_count=17241, busy_time=398645)
+ Overall network stats
+ snetio(bytes_sent=2731160, bytes_recv=45737945, packets_sent=18643, packets_recv=277677, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 148: 2019-02-26 06:00:48:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10762317824, percent=12.5, used=1071431680, free=9755987968, active=1202827264, inactive=945975296, buffers=173645824, cached=1296605184, shared=141893632, slab=215912448) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245031440384, free=576458330112, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=103468, write_count=72275, read_bytes=2162709504, write_bytes=599342080, read_time=1137111, write_time=594611, read_merged_count=3071, write_merged_count=17370, busy_time=400282)
+ Overall network stats
+ snetio(bytes_sent=2745320, bytes_recv=45936833, packets_sent=18741, packets_recv=279450, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 149: 2019-02-26 06:05:49:
+Overall cpu load(for each core)
+ [0.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10761261056, percent=12.5, used=1072459776, free=9754247168, active=1203916800, inactive=946495488, buffers=174084096, cached=1296879616, shared=141893632, slab=215953408) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245031600128, free=576458170368, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=103502, write_count=73221, read_bytes=2162865152, write_bytes=608771072, read_time=1137203, write_time=600080, read_merged_count=3071, write_merged_count=17658, busy_time=403949)
+ Overall network stats
+ snetio(bytes_sent=2804005, bytes_recv=46296003, packets_sent=19000, packets_recv=281626, errin=0, errout=0, dropin=0, dropout=0)
+ SNAPSHOT 150: 2019-02-26 06:10:50:
+Overall cpu load(for each core)
+ [1.0, 0.0, 0.0, 0.0]
+ Overall virtual memory load
+ svmem(total=12297670656, available=10762489856, percent=12.5, used=1072549888, free=9755152384, active=1204477952, inactive=945504256, buffers=174387200, cached=1295581184, shared=140582912, slab=215949312) 
+ Overall disk usage
+ sdiskusage(total=865477320704, used=245031616512, free=576458153984, percent=29.8)
+ Overall I/O stats
+ sdiskio(read_count=103502, write_count=73812, read_bytes=2162865152, write_bytes=611523584, read_time=1137203, write_time=603061, read_merged_count=3071, write_merged_count=17760, busy_time=406593)
+ Overall network stats
+ snetio(bytes_sent=2823548, bytes_recv=46540425, packets_sent=19113, packets_recv=283842, errin=0, errout=0, dropin=0, dropout=0)
+ 
